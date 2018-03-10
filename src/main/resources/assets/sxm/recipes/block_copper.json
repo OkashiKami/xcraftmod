@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+     "pattern":
+    [
+        "TTT",
+        "TTT",
+        "TTT"      
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "sxm:tonic"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sxm:block_tonic",
+        "count": 1
+    }
+}

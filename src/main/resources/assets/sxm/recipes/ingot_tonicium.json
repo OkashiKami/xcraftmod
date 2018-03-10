@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+     "pattern":
+    [
+        "BBB",
+        "BBB",
+        "BBB"      
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "sxm:block_tonicium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sxm:ingot_tonicium",
+        "count": 1
+    }
+}

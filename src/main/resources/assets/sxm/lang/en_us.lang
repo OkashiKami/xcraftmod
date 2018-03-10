@@ -1,0 +1,83 @@
+itemGroup.tutorialtab=Tutorial Tab
+
+generator.Copper=Copper
+generator.Custom=Tutorial Mod Biomes
+
+container.sintering_furnace=Sintering Furnace
+container.dual_furnace=Dual Furnace
+
+entity.centaur.name=Centaur
+entity.arion.name=Arion
+
+
+
+
+
+
+item.ingot_copper.name=Copper Ingot
+item.axe_copper.name=Copper Axe
+item.hoe_copper.name=Copper Hoe
+item.pickaxe_copper.name=Copper Pickaxe
+item.shovel_copper.name=Copper Shovel
+item.sword_copper.name=Copper Sword
+item.helmet_copper.name=Copper Helmet
+item.chestplate_copper.name=Copper Chestplate
+item.leggings_copper.name=Copper Leggings
+item.boots_copper.name=Copper Boots
+tile.block_copper.name=Copper Block
+tile.ore_overworld_copper.name=Copper Ore
+tile.ore_end_copper.name=Ender Copper Ore
+tile.ore_nether_copper.name=Fiery Copper Ore
+tile.dirt_copper.name=Copper Dirt
+tile.planks_copper.name=Copper Planks
+tile.log_copper.name=Copper Log
+tile.leaves_copper.name=Copper Leaves
+tile.sapling_copper.name=Copper Sapling
+item.copper.name=Copper
+
+
+item.ingot_tonicium.name=Tonicium Ingot
+item.axe_tonicium.name=Tonicium Axe
+item.hoe_tonicium.name=Tonicium Hoe
+item.pickaxe_tonicium.name=Tonicium Pickaxe
+item.shovel_tonicium.name=Tonicium Shovel
+item.sword_tonicium.name=Tonicium Sword
+item.helmet_tonicium.name=Tonicium Helmet
+item.chestplate_tonicium.name=Tonicium Chestplate
+item.leggings_tonicium.name=Tonicium Leggings
+item.boots_tonicium.name=Tonicium Boots
+tile.block_tonicium.name=Tonicium Block
+tile.ore_overworld_tonicium.name=Tonicium Ore
+tile.ore_end_tonicium.name=Ender Tonicium Ore
+tile.ore_nether_tonicium.name=Fiery Tonicium Ore
+tile.dirt_tonicium.name=Tonicium Dirt
+tile.planks_tonicium.name=Tonicium Planks
+tile.log_tonicium.name=Tonicium Log
+tile.leaves_tonicium.name=Tonicium Leaves
+tile.sapling_tonicium.name=Tonicium Sapling
+item.tonicium.name=Tonicium
+
+
+item.ingot_aluminium.name=Aluminum Ingot
+item.axe_aluminium.name=Aluminum Axe
+item.hoe_aluminium.name=Aluminum Hoe
+item.pickaxe_aluminium.name=Aluminum Pickaxe
+item.shovel_aluminium.name=Aluminum Shovel
+item.sword_aluminium.name=Aluminum Sword
+item.helmet_aluminium.name=Aluminum Helmet
+item.chestplate_aluminium.name=Aluminum Chestplate
+item.leggings_aluminium.name=Aluminum Leggings
+item.boots_aluminium.name=Aluminum Boots
+tile.block_aluminium.name=Aluminum Block
+tile.ore_overworld_aluminium.name=Aluminum Ore
+tile.ore_end_aluminium.name=Ender Aluminum Ore
+tile.ore_nether_aluminium.name=Fiery Aluminum Ore
+tile.dirt_aluminium.name=Aluminum Dirt
+tile.planks_aluminium.name=Aluminum Planks
+tile.log_aluminium.name=Aluminum Log
+tile.leaves_aluminium.name=Aluminum Leaves
+tile.sapling_aluminium.name=Aluminum Sapling
+item.aluminium.name=Aluminum
+
+tile.sintering_furnace.name=Sintering Furnace
+tile.dual_furnace.name=Dual Furnace

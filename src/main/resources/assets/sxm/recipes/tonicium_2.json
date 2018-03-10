@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "T"      
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "sxm:block_tonicium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sxm:tonicium",
+        "count": 3
+    }
+}
