@@ -15,7 +15,6 @@ import com.senpai.mod.world.types.WorldTypeCopper;
 import com.senpai.mod.world.types.WorldTypeCustom;
 
 import net.minecraft.block.Block;
-import net.minecraft.block.properties.PropertyEnum;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
@@ -46,11 +45,8 @@ public class RegistryHandler
 	@SubscribeEvent
 	public static void onRecipeRegister(RegistryEvent event)
 	{
-		PropertyEnum<EnumHandler.EnumType> varent = BlockOres.VARIANT;
-		IBlockState state = BlockInit.ORE_OVERWORLD.getDefaultState().withProperty(varent, EnumHandler.EnumType.TONICIUM);
+		IBlockState state = BlockInit.ORE_OVERWORLD.getDefaultState().withProperty(BlockOres.VARIANT, EnumHandler.EnumType.TONICIUM);
 		System.out.println("BLOCK INFO: " + state.getBlock().getRegistryName());
-		System.out.println("VARENT: " + varent);
-		
 		//GameRegistry.addSmelting(BlockInit.BLOCKS.("ore_overworld_tonicium"), new ItemStack(ItemInit.TONICIUM, 32), 3);
 	}
 
